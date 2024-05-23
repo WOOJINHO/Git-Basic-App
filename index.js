@@ -1,1 +1,5 @@
-// index.html을 위한
+// index.html
+function Login(username)
+{
+  console.log(username);
+}
